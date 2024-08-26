@@ -1,0 +1,1 @@
+export type useToggleType = (defaultValue: boolean) => [value: boolean, toggle: () => void]
